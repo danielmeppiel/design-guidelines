@@ -8,7 +8,7 @@ An APM (Agent Primitives Manager) application with comprehensive primitives comp
 # Install dependencies
 apm install
 
-# Compile APM primitives into AGENTS.md
+# Compile APM context into AGENTS.md
 apm compile
 
 # Run the hello world prompt
@@ -21,9 +21,9 @@ apm run feature --param feature_name="User Authentication" --param feature_descr
 apm preview --param name="Developer"
 ```
 
-## APM Primitives Compilation
+## APM context Compilation
 
-This project demonstrates the full APM primitives system:
+This project demonstrates the full APM context system:
 
 ### Available Primitives
 - **Chatmodes**: `default`, `backend-engineer`

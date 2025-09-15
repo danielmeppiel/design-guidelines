@@ -12,13 +12,13 @@ apm install
 apm compile
 
 # Run the hello world prompt
-apm run start --param name="Developer"
+apm run start --param name="<YourGitHubHandle>"
 
 # Run feature implementation workflow
 apm run feature --param feature_name="User Authentication" --param feature_description="Implement secure user login and registration"
 
 # Preview before execution
-apm preview --param name="Developer"
+apm preview --param name="<YourGitHubHandle>"
 ```
 
 ## APM context Compilation

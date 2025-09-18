@@ -4,8 +4,8 @@ description: UI/UX design standards and accessibility guidelines for development
 author: Design & UX Team
 
 scripts:
-  start: "copilot --log-level all --log-dir copilot-logs -p design-review.prompt.md"
-  accessibility: "copilot --log-level all --log-dir copilot-logs -p accessibility-audit.prompt.md"
+  start: "codex --skip-git-repo-check design-review.prompt.md"
+  accessibility: "codex --skip-git-repo-check accessibility-audit.prompt.md"
   style-guide: "codex --skip-git-repo-check style-guide-check.prompt.md"
 
 dependencies:

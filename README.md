@@ -2,7 +2,7 @@
 
 [![Install with APM](https://img.shields.io/badge/📦_Install_with-APM-blue?style=flat-square)](https://github.com/danielmeppiel/apm#-apm-packages) 
 
-An APM (Agent Package Manager) application with comprehensive primitives compilation examples.
+An APM (Agent Package Manager) application with comprehensive agent context compilation examples.
 
 ## Quick Start
 

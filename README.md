@@ -1,5 +1,7 @@
 # design-guidelines
 
+[![APM Package](https://img.shields.io/badge/📦_APM-Package-blue?style=flat-square)](https://github.com/danielmeppiel/apm) 
+
 An APM (Agent Primitives Manager) application with comprehensive primitives compilation examples.
 
 ## Quick Start
